@@ -1,0 +1,4 @@
+com\priyanka\spring\datajpa\repository\TutorialRepository.class
+com\priyanka\spring\datajpa\SpringBootDataJpaApplication.class
+com\priyanka\spring\datajpa\model\Tutorial.class
+com\priyanka\spring\datajpa\controller\TutorialController.class
